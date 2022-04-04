@@ -1,0 +1,7 @@
+{
+	"name": "melity/jwplayer",
+	"description": "JW Player",
+	"type": "library",
+	"homepage": "https://github.com/shashank-melity/jwplayer",
+	"license": [ "GPL-2.0+", "LGPL-2.1+", "MPL-1.1+" ]
+}
